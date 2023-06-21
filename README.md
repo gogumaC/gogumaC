@@ -3,6 +3,16 @@
 
 ## 🧗 About me
 
+### 👀 Interest
+
+---
+
+#️⃣ Android OS📱
+
+#️⃣ Android wearOS ⌚
+
+#️⃣ Android Automotive OS 🚗
+
 ### Portfolio
 [포트폴리오](https://www.notion.so/b1af74415c1e42408a339feb64c0a3d2)
 
