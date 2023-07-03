@@ -12,7 +12,7 @@
 
 ### 🏫 Education 
 - 부산대학교 임베디드 소프트웨어 연계전공('23.08 졸업예정)
-<!-- - 현대 소프티어 부트캠프 2기 -->
+- 현대 소프티어 부트캠프 2기 안드로이드 (23.07.03~23.08.30)
 
 ### 🏆 Awards 
 - 여성벤처성장챌린지 장려상 (21.11.04)
@@ -60,14 +60,15 @@
 
 ### 🌱 I’m currently learning ...
 - [BOLG](https://gogumac.github.io/)
-- Jetpack Compose
-- algorithm
+- Android Basic
 
 ### 🔭 I’m currently working on ...
-- [ClimUp](https://github.com/gogumaC/ClimbUp)
+- 현대 소프티어 부트캠프
+<!-- - [ClimUp](https://github.com/gogumaC/ClimbUp) -->
 
 ### 👀 I’m currently interested in
 
+- Android basic
 - Android wearOS ⌚,  Android Automotive OS 🚗
 - 깃 꾸미기
 
