@@ -60,7 +60,7 @@
 
 ### 🌱 I’m currently learning ...
 - [BOLG](https://gogumac.github.io/)
-- Android Basic
+- Android basic
 
 ### 🔭 I’m currently working on ...
 - 현대 소프티어 부트캠프
