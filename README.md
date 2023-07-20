@@ -3,7 +3,7 @@
 
 ## 🐳 About me
 
-안녕하세요! 꾸준히앞으로 나아가는 안드로이드 개발자 김유빈 입니다!
+안녕하세요! 꾸준히 앞으로 나아가는 안드로이드 개발자 김유빈 입니다!
 ### 📌 MOTO 
 
 &emsp; ***"Keep Going!"***
@@ -12,12 +12,12 @@
 
 ### 🏫 Education 
 - 부산대학교 임베디드 소프트웨어 연계전공('23.08 졸업예정)
-- 현대 소프티어 부트캠프 2기 안드로이드 (23.07.03~23.08.30)
+- 현대 소프티어 부트캠프 2기 안드로이드 ('23.07.03~'23.08.30)
 
 ### 🏆 Awards 
-- 여성벤처성장챌린지 장려상 (21.11.04)
+- 여성벤처성장챌린지 장려상 ('21.11.04)
 
-- 2021 전국 대학생 아이디어 경진대회 우수상 (21.11.12)
+- 2021 전국 대학생 아이디어 경진대회 우수상 ('21.11.12)
 
 - 2023 부산대 코드레이스 비기너 동상
 
@@ -39,7 +39,7 @@
 
 **Network** | Retrofit2, okhttp3
 
-**Ect** | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&style=social"/>
+**Etc** | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&style=social"/>
 
 
 
