@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Gogumac%20Github&fontAlign=50&theme=outrun&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=gogumaC%20Github&fontAlign=50&theme=outrun&fontColor=000000" />
 
 
 ## 🐳 About me
