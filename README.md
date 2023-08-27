@@ -3,7 +3,10 @@
 
 ## 🐳 About me
 
-안녕하세요! 꾸준히 앞으로 나아가는 안드로이드 개발자 김유빈 입니다!
+안녕하세요! 정상을 향해 꾸준히 앞으로 나아가는 안드로이드 개발자 김유빈 입니다!
+
+[![GogumaC's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogumaC)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📌 MOTO 
 
 &emsp; ***"Keep Going!"***
@@ -11,7 +14,7 @@
 &emsp;***"Only one!"***
 
 ### 🏫 Education 
-- 부산대학교 임베디드 소프트웨어 연계전공('24.01 졸업예정)
+- 부산대학교 임베디드 소프트웨어 연계전공('24.02 졸업예정)
 - 현대 소프티어 부트캠프 2기 안드로이드 ('23.07.03~'23.08.30)
 
 ### 🏆 Awards 
@@ -33,11 +36,13 @@
 **DB** | <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white&style=social"/>
 <img src="https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=Room&logoColor=white&style=social"/>
 
-**App Architecture** | MVVM
+**App Architecture** | MVVM (viewModel, databinding, liveData, flow)
 
-**Async** |  RXJava
+**Async** |  RXJava, Coroutine
 
-**Network** | Retrofit2, okhttp3
+**Network** | Retrofit2
+
+**DI** | Hilt
 
 **Etc** | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&style=social"/>
 
@@ -90,11 +95,6 @@ BLOG : [Gogumac's Blog](https://gogumac.github.io/)
 
 
 
-
-
-
-<!--[![GogumaC's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogumaC)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--
 
 
 Here are some ideas to get you started:
