@@ -69,9 +69,9 @@
 - [BOLG](https://gogumac.github.io/)
 - Android basic
 
-<!-- ### 🔭 I’m currently working on ... -->
-<!-- - [ClimUp](https://github.com/gogumaC/ClimbUp) -->
-
+### 🔭 I’m currently working on ...
+- [ClimUp](https://github.com/gogumaC/ClimbUp)
+  
 ### 👀 I’m currently interested in
 
 - Android basic
