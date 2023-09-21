@@ -70,7 +70,7 @@
 - Android basic
 
 ### 🔭 I’m currently working on ...
-- [ClimUp](https://github.com/gogumaC/ClimbUp)
+- [ClimbUp](https://github.com/gogumaC/ClimbUp)
   
 ### 👀 I’m currently interested in
 
@@ -79,9 +79,6 @@
 - 깃 꾸미기
 
 
-
-
-<br>
 <br>
 
 ---
