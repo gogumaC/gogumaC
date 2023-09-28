@@ -67,7 +67,8 @@
 
 ### 🌱 I’m currently learning ...
 - [BOLG](https://gogumac.github.io/)
-- Android basic
+- jetpack compose
+- mvi architecture pattern
 
 ### 🔭 I’m currently working on ...
 - [ClimbUp](https://github.com/gogumaC/ClimbUp)
