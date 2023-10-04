@@ -11,7 +11,6 @@
 
 &emsp; ***"Keep Going!"***
 
-&emsp;***"Only one!"***
 
 ### 🏫 Education 
 - 부산대학교 임베디드 소프트웨어 연계전공('24.02 졸업예정)
