@@ -53,8 +53,9 @@
 
 ## 🚀 Projects
 
-- [POLDA](https://github.com/gogumaC/POLDA-android) (21.03.01~21.07.31)
+- [현대 소프티어 부트캠프 - 내 차 만들기](https://github.com/softeerbootcamp-2nd/H6-CaArt) (23.08)
 - [모꾸다꾸(android)](https://www.notion.so/ver-1-0-0-ver-1-12-1-1898e8cab0264b189782c9eb114cc943) (21.06.21~21.12.29)
+- [POLDA](https://github.com/gogumaC/POLDA-android) (21.03.01~21.07.31)
 - [캐치멘토](https://github.com/gogumaC/apptive_2021_catch_mento) (21.09.01~22.10.31)
 - [I'm Home](https://github.com/gogumaC/ImHome) (22.08.14~22.08.15)
   
