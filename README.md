@@ -68,7 +68,6 @@
 ### 🌱 I’m currently learning ...
 - [BOLG](https://gogumac.github.io/)
 - jetpack compose
-- mvi architecture pattern
 
 ### 🔭 I’m currently working on ...
 - [DevPulse](https://github.com/gogumaC/DevPulse)
