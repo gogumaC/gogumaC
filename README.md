@@ -70,7 +70,7 @@
 - jetpack compose
 
 ### 🔭 I’m currently working on ...
-- linkedin auto poting with github action
+- [링크드인 자동포스팅(with github action)](https://gogumac.github.io/projects/lnkedin-auto-posting/linkedin-auto-posting-1/)
 - [DevPulse](https://github.com/gogumaC/DevPulse)
 <!-- - [ClimbUp](https://github.com/gogumaC/ClimbUp) -->
   
