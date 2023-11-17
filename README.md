@@ -3,8 +3,6 @@
 
 ## 🐳 About me
 
-안녕하세요! 정상을 향해 꾸준히 앞으로 나아가는 안드로이드 개발자 김유빈 입니다!
-
 [![GogumaC's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogumaC)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📌 MOTO 
@@ -67,18 +65,16 @@
 
 ### 🌱 I’m currently learning ...
 - [BOLG](https://gogumac.github.io/)
-- jetpack compose
+- algorithm
 
 ### 🔭 I’m currently working on ...
 - [링크드인 자동포스팅(with github action)](https://gogumac.github.io/projects/lnkedin-auto-posting/linkedin-auto-posting-1/)
-- [DevPulse](https://github.com/gogumaC/DevPulse)
+<!-- - [DevPulse](https://github.com/gogumaC/DevPulse) -->
 <!-- - [ClimbUp](https://github.com/gogumaC/ClimbUp) -->
   
 ### 👀 I’m currently interested in
 
-- Android basic
-- Android wearOS ⌚,  Android Automotive OS 🚗
-- 깃 꾸미기
+- 자동화
 
 
 <br>
