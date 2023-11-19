@@ -64,7 +64,7 @@
 ## 🏃 Recently
 
 ### 🌱 I’m currently learning ...
-- [BOLG](https://gogumac.github.io/)
+- [BLOG](https://gogumac.github.io/)
 - algorithm
 
 ### 🔭 I’m currently working on ...
