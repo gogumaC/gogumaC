@@ -90,7 +90,7 @@
 
 email : gogumac.dev@gmail.com
 
-LinkedIn : [LinkedIn-Yubin Kim](https://www.linkedin.com/in/yubin-kim-067300208/)
+LinkedIn : [Yubin Kim](https://www.linkedin.com/in/yubin-kim-067300208/)
 
 BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 
