@@ -3,10 +3,11 @@
 
 ## 🐳 About me
 
-[![GogumaC's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogumaC)](https://github.com/anuraghazra/github-readme-stats)
+[![GogumaC's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogumaC)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimu2371)](https://solved.ac/kimu2371/)
 <a href="https://wakatime.com/@gogumac" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gogumac&layout=compact" alt="Wakatime Coding Time" width="540px">
 </a>
+
 
 ### 📌 MOTO 
 
