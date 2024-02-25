@@ -81,9 +81,9 @@
 <!-- - [DevPulse](https://github.com/gogumaC/DevPulse) -->
 <!-- - [ClimbUp](https://github.com/gogumaC/ClimbUp) -->
   
-### 👀 I’m currently interested in
+<!-- ### 👀 I’m currently interested in
 
-- 자동화
+- 자동화-->
 
 
 <br>
