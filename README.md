@@ -8,14 +8,22 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gogumac&layout=compact" alt="Wakatime Coding Time" width="540px">
 </a>
 
+### Contact 
 
-### 📌 MOTO 
+email : gogumac.dev@gmail.com
+
+LinkedIn : [Yubin Kim](https://www.linkedin.com/in/yubin-kim-067300208/)
+
+BLOG : [gogumaC's Blog](https://gogumac.github.io/)
+
+### Moto
 
 &emsp; ***"Keep Going!"***
 
 
 ### 🏫 Education 
-- 부산대학교 임베디드 소프트웨어 연계전공('24.02 졸업예정)
+
+- 부산대학교 임베디드 소프트웨어 연계전공('24.02.23)
 - 현대 소프티어 부트캠프 2기 안드로이드 과정 수료 ('23.07.03~'23.08.30)
   - 우수 소프티어상 수상🏆
 
@@ -88,15 +96,6 @@
 
 <br>
 
----
-
-### Contact 
-
-email : gogumac.dev@gmail.com
-
-LinkedIn : [Yubin Kim](https://www.linkedin.com/in/yubin-kim-067300208/)
-
-BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 
 
 
