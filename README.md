@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=gogumaC%20Github&fontAlign=50&theme=outrun&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&text=gogumaC%20Github&fontAlign=50&theme=outrun&fontColor=000000" />
 
 
 ## 🐳 About me
@@ -37,8 +37,6 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 
 - 여성벤처성장챌린지 장려상 ('21.11.04)
 
-
-
 <br>
 
 ## 🛠️ Skills
@@ -74,8 +72,6 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 - [캐치멘토](https://github.com/gogumaC/apptive_2021_catch_mento) (21.09.01~22.10.31)
 - [I'm Home](https://github.com/gogumaC/ImHome) (22.08.14~22.08.15)
 
-
-
 <br>
 
 ## 🏃 Recently
@@ -93,7 +89,6 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 <!-- ### 👀 I’m currently interested in
 
 - 자동화-->
-
 
 <br>
 
