@@ -74,7 +74,7 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 
 ### 🌱 I’m currently learning ...
 - [BLOG](https://gogumac.github.io/)
-- algorithm
+- [Algorithm](https://github.com/gogumaC/algorithm)
 
 ### 🔭 I’m currently working on ...
 
