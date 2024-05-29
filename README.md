@@ -39,6 +39,7 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 **IDE** | <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white&style=social"/>
 
 **Language** | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white&style=social"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white&style=social"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white&style=social"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&style=social"/>
 
