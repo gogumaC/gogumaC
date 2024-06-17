@@ -23,7 +23,7 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 - 현대 소프티어 부트캠프 2기 안드로이드 과정 수료 ('23.07.03~'23.08.30)
   - 우수 소프티어상 수상🏆
 
-### 🏆 Awards 
+### 🏆 Awards & Etc
 
 - 소프티어 부트캠프 2기 우수 소프티어상 ('23.08.30) 
 
@@ -32,6 +32,14 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 - 2021 전국 대학생 아이디어 경진대회 우수상 ('21.11.12)
 
 - 여성벤처성장챌린지 장려상 ('21.11.04)
+
+---
+
+- Topcit 3수준
+
+- PCCP python Lv3
+
+
 
 <br>
 
