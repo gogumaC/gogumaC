@@ -27,7 +27,7 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 
 - 정보처리기사 ('24.06.18)
 
-- Topcit 3수준 ('24.06.17)
+- Topcit 3수준 ('24.05.18)
 
 - PCCP python Lv3 ( '24.06.16)
 
