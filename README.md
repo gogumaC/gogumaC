@@ -72,7 +72,7 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 ## 🚀 Projects
 
 - [Box.size](https://github.com/Box-size/box.size-android) (23.07.07~23.09.04)
-- [현대 소프티어 부트캠프 - 내 차 만들기](https://github.com/gogumaC/H6-CaArt) (23.08)
+- [현대 소프티어 부트캠프 - 내 차 만들기](https://github.com/gogumaC/H6-CaArt) (23.07.03~23.08.30)
 - [모꾸다꾸(android)](https://www.notion.so/ver-1-0-0-ver-1-12-1-1898e8cab0264b189782c9eb114cc943) (21.06.21~21.12.29)
 - [POLDA](https://github.com/gogumaC/POLDA-android) (21.03.01~21.07.31)
 - [캐치멘토](https://github.com/gogumaC/apptive_2021_catch_mento) (21.09.01~22.10.31)
