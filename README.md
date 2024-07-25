@@ -86,7 +86,7 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 - [BLOG](https://gogumac.github.io/)
 - [Algorithm](https://github.com/gogumaC/algorithm)
 
-### 🔭 I’m currently working on ...
+<!-- ### 🔭 I’m currently working on ...
 
 - 조용한 코딩
 <!-- - [DevPulse](https://github.com/gogumaC/DevPulse) -->
