@@ -85,6 +85,7 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 ### 🌱 I’m currently learning ...
 - [BLOG](https://gogumac.github.io/)
 - [Algorithm](https://github.com/gogumaC/algorithm)
+- [daily study](https://chip-thought-999.notion.site/Daily-Study-436933fd83884cafa1d51cf02c5dbc66?pvs=4)
 
 <!-- ### 🔭 I’m currently working on ...
 
