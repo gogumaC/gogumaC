@@ -78,6 +78,9 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 - [캐치멘토](https://github.com/gogumaC/apptive_2021_catch_mento) (21.09.01~22.10.31)
 - [I'm Home](https://github.com/gogumaC/ImHome) (22.08.14~22.08.15)
 
+## 🧸 Toy Projects
+- [Bluetooth Chat](https://github.com/gogumaC/bluetooth-chat) (24.07.20~24.08.06)
+
 <br>
 
 ## 🏃 Recently
