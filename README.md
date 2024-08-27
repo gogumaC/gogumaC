@@ -79,7 +79,7 @@ BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 - [I'm Home](https://github.com/gogumaC/ImHome) (22.08.14~22.08.15)
 
 ## 🧸 Toy Projects
-- [Bluetooth Chat](https://github.com/gogumaC/bluetooth-chat) (24.07.20~24.08.06)
+- [Bluetooth Chat](https://github.com/gogumaC/bluetooth-chat) <!--(24.07.20~24.08.06)-->
 
 <br>
 
