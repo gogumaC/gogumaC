@@ -16,6 +16,10 @@ LinkedIn : [Yubin Kim](https://www.linkedin.com/in/yubin-kim-067300208/)
 
 BLOG : [gogumaC's Blog](https://gogumac.github.io/)
 
+### ☕️ Career
+
+- SOFTEYE, Junior Software Engineer ( Sep 9, 2024 ~ Ongoing ) 
+
 
 ### 🏫 Education 
 
