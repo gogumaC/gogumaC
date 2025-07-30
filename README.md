@@ -46,24 +46,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimu2371)](https://solved.ac/kimu2371/)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-965%20hrs%2043%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                560 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-🌆 Daytime                1258 commits        ██████████░░░░░░░░░░░░░░░   38.83 % 
-🌃 Evening                1115 commits        █████████░░░░░░░░░░░░░░░░   34.41 % 
-🌙 Night                  307 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-```
-
-
-
- Last Updated on 29/07/2025 15:16:35 UTC
+ Last Updated on 30/07/2025 15:14:25 UTC
 <!--END_SECTION:waka-->
 
 
