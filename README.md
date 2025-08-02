@@ -46,7 +46,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimu2371)](https://solved.ac/kimu2371/)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -56,14 +56,14 @@
 
 ```text
 🌞 Morning                558 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-🌆 Daytime                1255 commits        ██████████░░░░░░░░░░░░░░░   38.73 % 
-🌃 Evening                1123 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
+🌆 Daytime                1255 commits        ██████████░░░░░░░░░░░░░░░   38.72 % 
+🌃 Evening                1124 commits        █████████░░░░░░░░░░░░░░░░   34.68 % 
 🌙 Night                  304 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
 ```
 
 
 
- Last Updated on 01/08/2025 15:14:15 UTC
+ Last Updated on 02/08/2025 15:12:16 UTC
 <!--END_SECTION:waka-->
 
 
