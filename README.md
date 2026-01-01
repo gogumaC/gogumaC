@@ -50,7 +50,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.95%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -63,7 +63,7 @@
 
 
 
- Last Updated on 31/12/2025 15:13:58 UTC
+ Last Updated on 01/01/2026 15:13:51 UTC
 <!--END_SECTION:waka-->
 
 
