@@ -46,7 +46,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimu2371)](https://solved.ac/kimu2371/)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C140%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C140%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -63,7 +63,7 @@
 
 
 
- Last Updated on 23/04/2026 16:26:38 UTC
+ Last Updated on 24/04/2026 15:59:46 UTC
 <!--END_SECTION:waka-->
 
 
