@@ -46,7 +46,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimu2371)](https://solved.ac/kimu2371/)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C229%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C229%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,15 +55,15 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                620 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-🌆 Daytime                1429 commits        █████████░░░░░░░░░░░░░░░░   36.48 % 
-🌃 Evening                1478 commits        █████████░░░░░░░░░░░░░░░░   37.73 % 
-🌙 Night                  390 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+🌞 Morning                620 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+🌆 Daytime                1417 commits        █████████░░░░░░░░░░░░░░░░   36.49 % 
+🌃 Evening                1455 commits        █████████░░░░░░░░░░░░░░░░   37.47 % 
+🌙 Night                  391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 ```
 
 
 
- Last Updated on 21/07/2026 16:16:54 UTC
+ Last Updated on 22/07/2026 16:15:31 UTC
 <!--END_SECTION:waka-->
 
 
