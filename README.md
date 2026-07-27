@@ -46,7 +46,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimu2371)](https://solved.ac/kimu2371/)  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C272%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C258%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,15 +57,38 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                620 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-🌆 Daytime                1418 commits        █████████░░░░░░░░░░░░░░░░   36.38 % 
-🌃 Evening                1461 commits        █████████░░░░░░░░░░░░░░░░   37.48 % 
-🌙 Night                  399 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+🌞 Morning                620 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+🌆 Daytime                1428 commits        █████████░░░░░░░░░░░░░░░░   36.34 % 
+🌃 Evening                1482 commits        █████████░░░░░░░░░░░░░░░░   37.71 % 
+🌙 Night                  400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 ```
 
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 15:55:54 UTC
+```text
+⏱ AI Coding Time: 2 hrs (51.36%)
+
+✍️ 2,437 lines written by AI, 201 lines written by hand (92.38% AI-written)
+
+🔤 37,033,227 Input Tokens, 239,853 Output Tokens
+
+💵 $275.56 Estimated AI Cost This Week
+
+🧠 10 AI Sessions, 42 AI Prompts
+
+GPT                      6,014 lines         █████████████████████████   100.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 92.38% of written lines came from AI
+📚 Verbose Prompter — average 12,403 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 7.57% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 16:54:39 UTC
 <!--END_SECTION:waka-->
 
 
