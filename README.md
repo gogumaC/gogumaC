@@ -46,12 +46,49 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimu2371)](https://solved.ac/kimu2371/)  
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C269%20hrs%2033%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2047%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.08%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 28/07/2026 16:30:11 UTC
+```text
+🌞 Morning                620 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+🌆 Daytime                1418 commits        █████████░░░░░░░░░░░░░░░░   36.31 % 
+🌃 Evening                1465 commits        █████████░░░░░░░░░░░░░░░░   37.52 % 
+🌙 Night                  402 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+```
+
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 1 min (92.63%)
+
+✍️ 42,561 lines written by AI, 128 lines written by hand (99.7% AI-written)
+
+🔤 24,386,049,944 Input Tokens, 46,120,079 Output Tokens
+
+💵 $50179.13 Estimated AI Cost This Week
+
+🧠 58 AI Sessions, 106 AI Prompts
+
+GPT                      46,476 lines        █████████████████████████   100.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.7% of written lines came from AI
+📚 Verbose Prompter — average 9,107 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.3% of changed lines were hand-edited
+```
+
+
+ Last Updated on 29/07/2026 16:17:33 UTC
 <!--END_SECTION:waka-->
 
 
